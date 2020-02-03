@@ -1,0 +1,2 @@
+# pokedex
+a cli pokedex
